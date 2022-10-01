@@ -2,8 +2,8 @@
 D-CyPre: A Software Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism\
 D-CyPre is a convenient software developed based on D-CyPre model, and Train contains all the source code in the research process.\
 The data is comes from CyProduct: A Software Tool for Accurately Predicting the Byproducts of Human Cytochrome P450 Metabolism. \
-doi: https://doi.org/10.1021/acs.jcim.1c00144
-Description of folders/files in the repository/
+doi: https://doi.org/10.1021/acs.jcim.1c00144 \
+Description of folders/files in the repository\
 1. D-CyPre.zip is a convenient software. Please see the supplementary materials for specific usage methods.\
 2. Train contains the code for all the works.\
   2.1 original: Contains code for original D-CyPre.\
