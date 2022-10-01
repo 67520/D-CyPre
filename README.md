@@ -5,7 +5,7 @@ The data is comes from CyProduct: A Software Tool for Accurately Predicting the 
 doi: https://doi.org/10.1021/acs.jcim.1c00144
 Description of folders/files in the repository/
 1. D-CyPre.zip is a convenient software. Please see the supplementary materials for specific usage methods.\
-2. Train contains the code for all the work.\
+2. Train contains the code for all the works.\
   2.1 original: Contains code for original D-CyPre.\
   2.2 model - DMPNN: Contains code for D-CyPre (including molecular features calculated by D-MPNN).\
   2.3 others: Contains other experiments in the study, such as training the models of atoms and bonds, separately.
