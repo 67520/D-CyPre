@@ -3,7 +3,7 @@ D-CyPre: A Software Tool for Accurately Predicting the Site of Metabolism of Hum
 D-CyPre is a convenient software developed based on D-CyPre model, and Train contains all the source code in the research process.\
 The data is comes from CyProduct: A Software Tool for Accurately Predicting the Byproducts of Human Cytochrome P450 Metabolism. \
 doi: https://doi.org/10.1021/acs.jcim.1c00144 \
-Requirements (source code):\
+Requirements (Source Code):\
 numpy==1.22.0\
 scikit-learn==1.1.1\
 pandas==1.4.2\
@@ -18,5 +18,5 @@ xgboost==1.5.2
   2.1 original: Contains code for original D-CyPre.\
   2.2 model - DMPNN: Contains code for D-CyPre (including molecular features calculated by D-MPNN).\
   2.3 others: Contains other experiments in the study, such as training the models of atoms and bonds, separately.\
-# Overview:
+# Overview
 ![overview](https://github.com/67520/D-CyPre/blob/master/overview.png)
