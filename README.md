@@ -8,4 +8,6 @@ Description of folders/files in the repository
 2. Train contains the code for all the works.\
   2.1 original: Contains code for original D-CyPre.\
   2.2 model - DMPNN: Contains code for D-CyPre (including molecular features calculated by D-MPNN).\
-  2.3 others: Contains other experiments in the study, such as training the models of atoms and bonds, separately.
+  2.3 others: Contains other experiments in the study, such as training the models of atoms and bonds, separately.\
+Overview\
+![overview](https://github.com/67520/D-CyPre/blob/master/overview.png)
