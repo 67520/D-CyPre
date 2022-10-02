@@ -13,7 +13,7 @@ tqdm==4.64.0\
 pillow==9.0.0\
 xgboost==1.5.2
 # Description of folders/files in the repository
-1. D-CyPre.zip is a convenient software. Please see the supplementary materials for specific usage methods.
+1. D-CyPre.zip is a convenient software. Please see the Supporting for specific usage methods.
 2. Train contains the code for all the works.\
   2.1 original: Contains code for original D-CyPre.\
   2.2 model - DMPNN: Contains code for D-CyPre (including molecular features calculated by D-MPNN).\
