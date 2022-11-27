@@ -1,1 +1,0 @@
-'max_depth_now:', '7', 'colsample_bytree_now:', '0.7', 'reg_lambda_now:', '1', 'n_estimators_now:', 1000
