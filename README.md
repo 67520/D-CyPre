@@ -1,4 +1,4 @@
-# D-CyPre
+# ✨ D-CyPre
 D-CyPre: A Software Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism\
 D-CyPre is a convenient software developed based on D-CyPre model, and Train contains all the source code in the research process.\
 The data set is comes from CyProduct: A Software Tool for Accurately Predicting the Byproducts of Human Cytochrome P450 Metabolism. \
@@ -12,7 +12,7 @@ rdkit==2021.09.2\
 tqdm==4.64.0\
 pillow==9.0.0\
 xgboost==1.5.2
-# Description of folders/files in the repository
+# 📚 Description of folders/files in the repository
 1. D-CyPre.zip is a convenient software. Please see the Supporting Information for specific usage methods.
 2. Train contains the code for all the works.\
   2.1 original: Contains code for original D-CyPre.\
@@ -22,6 +22,6 @@ xgboost==1.5.2
     2.2.1 train: Contains code for training the final model.\
     2.2.2 val: Contains code for tuning the parameters of XGBOOST.\
 Note: The parameters of all XGBOOST in this study are available in the Supporting.
-# Overview
+# 📜 Overview
 Note: D-CyPre supports the analysis of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A4. And the password for the compressed package is 67520.
 ![overview](https://github.com/67520/D-CyPre/blob/master/overview.png)
