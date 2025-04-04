@@ -3,7 +3,7 @@
 D-CyPre is a convenient software developed based on D-CyPre model, and Train contains all the source code in the research process.\
 The data set is comes from CyProduct: A Software Tool for Accurately Predicting the Byproducts of Human Cytochrome P450 Metabolism. \
 doi: https://doi.org/10.1021/acs.jcim.1c00144 \
-Please cite: [1] Yang H, Liu J, Chen K, et al. D-CyPre: a machine learning-based tool for accurate prediction of human CYP450 enzyme metabolic sites[J]. PeerJ Comput. Sci., 2024, 10: e2040.
+Please cite: Yang H, Liu J, Chen K, et al. D-CyPre: a machine learning-based tool for accurate prediction of human CYP450 enzyme metabolic sites[J]. PeerJ Comput. Sci., 2024, 10: e2040.
 Requirements (Source Code):\
 numpy==1.22.0\
 scikit-learn==1.1.1\
