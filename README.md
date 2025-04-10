@@ -24,4 +24,4 @@ xgboost==1.5.2
 Note: The parameters of all XGBOOST in this study are available in the Supporting.
 # 📜 Overview
 Note: D-CyPre supports the analysis of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A4. And the password for the compressed package is 67520.
-![overview](https://github.com/67520/D-CyPre/blob/master/overview.png)
+![overview](https://github.com/67520/D-CyPre/blob/master/OverView.png)
